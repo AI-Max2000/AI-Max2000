@@ -1,3 +1,5 @@
+<p align="right"><sub><a href="https://ai-max2000.github.io/personal-articles-web/" title="前往个人主界面">个人主界面 ↗</a></sub></p>
+
 <p><img src="assets/header.png" width="840" alt="AI Max · AI 产品经理 / AI Product Manager"></p>
 
 <p align="center"><picture>
